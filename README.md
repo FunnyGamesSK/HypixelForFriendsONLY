@@ -3,7 +3,7 @@
 1. I download some plugin source codes, and modify the code so it suits best for the server.
 2. Then I use ChatGPT for some stuff to my own plugins. (Not always, but often)
 # What should you do if you want
-<a href=youtube.com/@techandgamingtm>Subscribe here! (You don't need to, but recommended)</a>
+<a href=https://www.youtube.com/@techandgamingtm>Subscribe here! (You don't need to, but recommended)</a>
 ## You can also make me some plugins if you want for my server so it is as much as Hypixel-look ##
 ## The server is made for my friends ##
 ## How to become my friend? ##
