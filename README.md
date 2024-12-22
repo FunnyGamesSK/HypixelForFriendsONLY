@@ -11,3 +11,9 @@
 2. Add me on Lunar Client to friends (vh4_) (optional)
 3. Wait till you get heart and reply to your comment on the latest video.
 4. Wait till I give you the IP on Discord (beluga0140) to DMs.
+
+### NOTE ###
+# This branch 'master' is only for the main files.
+# Ignore all files in this branch except README.md
+# All plugins or codes we made or use are in the branches of versions.
+# Latest branch for December 22 2024 is 1.0
